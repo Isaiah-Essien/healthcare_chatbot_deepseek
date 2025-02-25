@@ -1,0 +1,11 @@
+unsloth
+unsloth_zoo
+torch
+torchaudio
+torchvision
+vllm
+xformers
+xgrammar
+trl
+datasets
+git+https://github.com/unslothai/unsloth.git
