@@ -1,5 +1,6 @@
 # Fine-Tuned DeepSeek Healthcare Chatbot
-![Chatbot Output](images/Screenshot 2025-02-25 114713.png)
+
+![Chatbot Output](images/chat.png)
 
 ## Project Overview
 This project involves fine-tuning **DeepSeek-R1-Distill-Llama-8B** using **LoRA (Low-Rank Adaptation)** to create a specialized **healthcare chatbot**. The chatbot is designed to assist users with medical-related inquiries, providing AI-generated health insights based on trained data.
