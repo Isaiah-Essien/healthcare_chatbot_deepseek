@@ -1,5 +1,5 @@
 # Fine-Tuned DeepSeek Healthcare Chatbot
-![Chatbot Output](images\Screenshot 2025-02-25 114713.png)
+![Chatbot Output](images/Screenshot 2025-02-25 114713.png)
 
 ## Project Overview
 This project involves fine-tuning **DeepSeek-R1-Distill-Llama-8B** using **LoRA (Low-Rank Adaptation)** to create a specialized **healthcare chatbot**. The chatbot is designed to assist users with medical-related inquiries, providing AI-generated health insights based on trained data.
@@ -17,9 +17,9 @@ By fine-tuning **DeepSeek**, this project creates an **efficient, low-resource m
 
 
 ## Links
-🔗 **Dataset**: [Kaggle Healthcare QA Dataset](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)  
-🔗 **Model**: [Hugging Face Model](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B)
-🔗 **Link to Video recordig**: [Video walkthrough](https://youtu.be/ZehKvFSy8Mo)
+- Dataset: [Kaggle Healthcare QA Dataset](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)  
+- Model: [Hugging Face Model](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B)
+- Link to Video recordig: [Video walkthrough](https://youtu.be/ZehKvFSy8Mo)
 ---
 
 ## 🛠 Installation & Setup
@@ -121,7 +121,7 @@ print("Chatbot:", response)
 ---
 
 ## Screenshots
-![Training Log](images\image.png)
+![Training Log](images/image.png)
 
 ---
 
